@@ -1,0 +1,10 @@
+{
+  "name": "@rabbitcc/action-test",
+  "version": "0.0.0",
+  "repository": "https://github.com/HairyRabbit/action-test.git",
+  "author": "Rabbit <yfhj1990@hotmali.com>",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
